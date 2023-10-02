@@ -2,7 +2,7 @@ macro_right_meh: macro_right_meh{
 compatible = "zmk,behavior-macro";
 label = "macro_right_meh";
 #binding-cells = <0>;
-bindings = <&kp RIGHT_CONTROL>, <&kp RIGHT_SHIFT>, <&kp RIGHT_ALT>;
+bindings = <&sk RIGHT_CONTROL>, <&sk RIGHT_SHIFT>, <&sk RIGHT_ALT>;
 };
 macro_left_meh: macro_left_meh{
 compatible = "zmk,behavior-macro";
