@@ -53,8 +53,8 @@
            "&mo 2",              "&none",          "&none",              "&none",            "&none",                     "&u_lt 6 BACKSPACE",          "&kp DEL", "&mt LC(LS(LEFT_ALT)) END",                     "&mt RC(LS(RALT)) PAGE_DOWN",         "&kp ENTER", "&kp SPACE",                       "&none",               "&none",           "&none",                       "&none",     "&mo 2"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",         "&trans",         "&trans",          "&trans",         "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",   "&kp CAPSLOCK",     "&kp INSERT", "&kp PRINTSCREEN",         "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans",  "&none", "&kp LEFT_ARROW", "&kp DOWN_ARROW",    "&kp UP_ARROW", "&kp DOWN_ARROW", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&tog0",                                                             "&trans",   "&kp CAPSLOCK",     "&kp INSERT", "&kp PRINTSCREEN",         "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans",  "&none", "&kp LEFT_ARROW", "&kp DOWN_ARROW",    "&kp UP_ARROW", "&kp RIGHT_ARROW", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                           "&kp HOME",  "&kp PAGE_DOWN",     "&kp PAGE_UP",        "&kp END", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                           "&trans",          "&trans",         "&trans", "&trans", "&trans"
     ], [
