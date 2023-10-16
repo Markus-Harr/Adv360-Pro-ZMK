@@ -10,8 +10,8 @@
     "Windows",
     "Miryoku-base",
     "Miryoku-number",
-    "Miryoku-function",
-    "Miryoku-navigation",
+    "Miryoku-fn",
+    "Miryoku-nav",
     "Miryoku-symbol"
   ],
   "layers": [
