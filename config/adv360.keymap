@@ -31,9 +31,9 @@
 / {
     conditional_layers {
         compatible = "zmk,conditional-layers";
-        tri_layer {
-            if-layers = <MHA_BASE FN>;
-            then-layer = <MHA_FN>;
+        mha_num {
+            if-layers = <MHA_BASE MHA_NUM>;
+            then-layer = <MHA_HMA_NUM>;
         };
     };
 
