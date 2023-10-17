@@ -33,7 +33,7 @@
         compatible = "zmk,conditional-layers";
         mha_num {
             if-layers = <MHA_BASE MHA_NUM>;
-            then-layer = <MHA_HMA_NUM>;
+            then-layer = <MHA_NUM>;
         };
     };
 
